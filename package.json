@@ -1,7 +1,7 @@
 {
   "name": "@rrocha/eslint-config",
   "version": "1.0.0",
-  "private": "false",
+  "private": false,
   "description": "Plugins para ESLint baseados no @rocketseat/eslint-config",
   "repository": {
     "url": "raniererocha/personal-eslint-config"
